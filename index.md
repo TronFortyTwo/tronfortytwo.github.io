@@ -1,5 +1,7 @@
 ## Surveying
-Area calculator using the Gauss formula - [here](https://tronfortytwo.github.io/gauss-calculator)
+
+Area calculator using the Gauss formula - [HERE](https://tronfortytwo.github.io/gauss-calculator)
+
 Area calculator using the 'formula di camminamento' - todo
 
 ## Ubuntu Touch apps
