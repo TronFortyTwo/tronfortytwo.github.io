@@ -7,5 +7,8 @@ Area calculator using polar coordinates - [HERE](https://tronfortytwo.github.io/
 ## Ubuntu Touch apps
 Check them out in the [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
 
+## Hal
+Chess engine in C++, XBoard compatible. [gitlab repo](https://gitlab.com/tronfortytwo/hal)
+
 ## Contact me
 To contact me, write to emanuele.sorce@hotmail.com
