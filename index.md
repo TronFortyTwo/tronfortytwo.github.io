@@ -4,8 +4,8 @@ Area calculator using the Gauss formula - [HERE](https://tronfortytwo.github.io/
 Area calculator using "formula di camminamento" - [HERE](https://tronfortytwo.github.io/camminamento-calculator)    
 Area calculator using polar coordinates - [HERE](https://tronfortytwo.github.io/polar-calculator)    
     
-Area calculator using Bezout method - [HERE](https://github.com/TronFortyTwo/bezout-calculator)    
-Area calculator using Simpson method - [HERE](https://github.com/TronFortyTwo/simpson-calculator)     
+Area calculator using Bezout method - [HERE](https://tronfortytwo.github.io/bezout-calculator)    
+Area calculator using Simpson method - [HERE](https://tronfortytwo.github.io/simpson-calculator)     
 
 ## Ubuntu Touch apps
 Check them out in the [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
