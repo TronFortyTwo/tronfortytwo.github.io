@@ -10,8 +10,8 @@ Area calculator using Simpson method - [HERE](https://tronfortytwo.github.io/sim
 ## Ubuntu Touch apps
 Check them out in the [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
 
-## Android apps
-Check them out in the [Amazon App Store](https://www.amazon.it/s?ie=UTF8&field-brandtextbin=Emanuele%20Sorce&index=mobile-apps&search-type=ss)    
+
+
 
 ## Other
 Hal - chess engine - [gitlab repo](https://gitlab.com/tronfortytwo/hal) (work in progress)
