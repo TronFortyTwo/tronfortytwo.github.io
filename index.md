@@ -1,3 +1,6 @@
+## Ubuntu Touch apps
+Check them out in the [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
+
 ## Surveying
 
 Area calculator using the Gauss formula - [HERE](https://tronfortytwo.github.io/gauss-calculator)    
@@ -7,14 +10,8 @@ Area calculator using polar coordinates - [HERE](https://tronfortytwo.github.io/
 Area calculator using Bezout method - [HERE](https://tronfortytwo.github.io/bezout-calculator)    
 Area calculator using Simpson method - [HERE](https://tronfortytwo.github.io/simpson-calculator)     
 
-## Ubuntu Touch apps
-Check them out in the [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
-
-
-
-
-## Other
-Hal - chess engine - [gitlab repo](https://gitlab.com/tronfortytwo/hal) (work in progress)
+## AI
+Hal - proof of concept chess engine - [gitlab repo](https://gitlab.com/tronfortytwo/hal)
 
 ## Contact me
 To contact me, write to emanuele.sorce@hotmail.com
