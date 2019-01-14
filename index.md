@@ -12,6 +12,3 @@ Area calculator using Simpson method - [HERE](https://tronfortytwo.github.io/sim
 
 ## AI
 Hal - proof of concept chess engine - [gitlab repo](https://gitlab.com/tronfortytwo/hal)
-
-## Contact me
-To contact me, write to emanuele.sorce@hotmail.com
