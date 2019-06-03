@@ -1,6 +1,9 @@
 ## Ubuntu Touch apps
 [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
 
+## Pesce Pietra
+[StoneFish online version](https://tronfortytwo.github.io/stonefish)
+
 ## Hal - proof of concept chess engine in C++
 [gitlab repo](https://gitlab.com/tronfortytwo/hal)
 
