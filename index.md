@@ -3,6 +3,7 @@
 
 ## Pesce Pietra
 [versione Android](https://drive.google.com/open?id=1B9ZUoZPJP4v8sIIj112gJl053ogig-iO)
+
 [versione online](https://tronfortytwo.github.io/stonefish)
 
 ## Hal - proof of concept chess engine in C++
