@@ -2,9 +2,9 @@
 [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
 
 ## Pesce Pietra
-Versione 4.0.2
+Versione 4.1.0
 
-[versione Android](https://drive.google.com/open?id=106IcZKYcSl9qDRLzZJPiy5Q9dRZfysr3)
+[versione Android](https://drive.google.com/open?id=1MQ8TI-w5wZ2vhH6m4mC0nqZvrJD_DtNg)
 
 [versione online](https://tronfortytwo.github.io/stonefish)
 
