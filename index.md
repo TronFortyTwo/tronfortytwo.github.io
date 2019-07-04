@@ -4,7 +4,7 @@
 ## Pesce Pietra
 Versione 4.1.0
 
-[versione Android](https://drive.google.com/open?id=1MQ8TI-w5wZ2vhH6m4mC0nqZvrJD_DtNg)
+[versione Android](https://drive.google.com/file/d/1MQ8TI-w5wZ2vhH6m4mC0nqZvrJD_DtNg/view?usp=sharing)
 
 [versione online](https://tronfortytwo.github.io/stonefish)
 
