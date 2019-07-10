@@ -1,12 +1,12 @@
 ## Ubuntu Touch apps
 [OpenStore](https://open-store.io/?sort=relevance&search=author%3AEmanuele%20Sorce "OpenStore")
 
-## Pesce Pietra
-Versione 4.1.0
+## Stone Fish Android Game
+Version 4.1.0 (italian only)
 
-[versione Android](https://drive.google.com/file/d/1MQ8TI-w5wZ2vhH6m4mC0nqZvrJD_DtNg/view?usp=sharing)
+[Android version](https://drive.google.com/file/d/1MQ8TI-w5wZ2vhH6m4mC0nqZvrJD_DtNg/view?usp=sharing)
 
-[versione online](https://tronfortytwo.github.io/stonefish)
+[Web version](https://tronfortytwo.github.io/stonefish)
 
 ## Hal - proof of concept chess engine in C++
 [gitlab repo](https://gitlab.com/tronfortytwo/hal)
